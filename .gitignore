@@ -1,0 +1,13 @@
+data/*
+!data/.gitkeep
+!data/*/*.txt
+
+.vscode/
+.env
+.coverage
+
+*.pyc
+__pycache__/
+
+*.mp4
+*.avi
